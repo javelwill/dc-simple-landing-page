@@ -20,6 +20,8 @@ This is a solution to the simple landing page challenge from the Design Course.
 
 - Semantic HTML Markup
 - Mobile-first workflow
+- CSS Grid
+- CSS Flexbox
 
 ### What I learned
 
